@@ -18,9 +18,12 @@ header {
             font-size: large;
         }
 .datos {
-        line-height: 200%;
+            line-height: 200%;
         }
-        footer {    background-color: rgba(0, 86, 119, 1);
-            color: rgba(255,255,255, 1);
-            text-align : center;
+.fechas { 
+            font-weight: 700;
+        }
+footer {    background-color: rgba(0, 86, 119, 1);
+            color: rgba(255,255,255, 1);  
+            text-align : center;    
         }
