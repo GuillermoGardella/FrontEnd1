@@ -5,14 +5,22 @@
     }
 *************/
 
+body {      font-family: 'Times New Roman', Times, serif;
 
-h1 h2 { 
-    color: background: rgba(0, 86, 119, 1);
-    ;
-}
-p.texto {color: red;
-
-}
-#texto{color: pink;
-
-}
+        }
+header {
+            background-color: rgba(230, 230, 230, 1);
+            color: rgba( 0, 86, 119, 1);
+            text-align : center;
+        }
+.titulos {  background-color: rgba(196, 196, 196, 1);
+            color: rgba(0, 86, 119, 1);
+            font-size: large;
+        }
+.datos {
+        line-height: 200%;
+        }
+        footer {    background-color: rgba(0, 86, 119, 1);
+            color: rgba(255,255,255, 1);
+            text-align : center;
+        }
