@@ -27,3 +27,9 @@ footer {    background-color: rgba(0, 86, 119, 1);
             color: rgba(255,255,255, 1);  
             text-align : center;    
         }
+.instagram  {
+            position: absolute; width: 20px; height: 20px; left: 772px; top: 950px;
+        }
+.linkedin { 
+            position: absolute; width: 20px; height: 20px; left: 818px; top: 950px;
+}
