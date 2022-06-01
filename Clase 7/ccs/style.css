@@ -1,0 +1,18 @@
+/************
+    Selector {
+        propiedad: valor;
+        propiedad: valor;
+    }
+*************/
+
+
+h1 h2 { 
+    color: background: rgba(0, 86, 119, 1);
+    ;
+}
+p.texto {color: red;
+
+}
+#texto{color: pink;
+
+}
