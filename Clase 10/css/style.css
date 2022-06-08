@@ -2,7 +2,7 @@ body {
     box-sizing: border-box;
     margin: 0;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-   
+   background: rgba(255, 255, 255, 1);
 }
 .cabecera {
     background: rgba(28, 209, 176, 1);
@@ -14,7 +14,7 @@ body {
     margin: 0px;
 }
 main{
-    background: rgba(255, 255, 255, 1);
+    
 }
 .caja1 {
     background: rgba(243, 243, 243, 1);
@@ -24,11 +24,19 @@ main{
     left: 25px;
     top: 120px;
     text-align: center;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     }
 .cara1 {
     border-radius: 50%;
     position: relative;
     top: -50px;
+}
+.ver_más_1 {
+    color: rgba(243, 243, 243, 1);
+    background-color: rgba(0, 102, 159, 1);
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
 }
 .caja2 {
     background: rgba(243, 243, 243, 1);
@@ -44,6 +52,13 @@ main{
     position: relative;
     top: -50px;
 }
+.ver_más_2 {
+    color: rgba(243, 243, 243, 1);
+    background-color: rgba(0, 102, 159, 1);
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+}
 .caja3 {
     background: rgba(243, 243, 243, 1);
     position: relative;
@@ -57,4 +72,18 @@ main{
     border-radius: 50%;
     position: relative;
     top: -50px;
+}
+.ver_más_3 {
+    color: rgba(243, 243, 243, 1);
+    background-color: rgba(0, 102, 159, 1);
+    margin-left: 100px;
+    margin-right: 100px;
+    padding: 10px;
+}
+footer {
+    background: rgba(0, 102, 159, 1);
+    padding: 30px ;
+    margin-top: 800px;
+    color: rgba(255, 249, 249, 1);
+    ;
 }
