@@ -1,0 +1,16 @@
+body {
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+header {
+    background-color: rgba(230, 230, 230, 1);
+    color: rgba( 0, 86, 119, 1);
+    text-align : center;
+    letter-spacing: 2em; 
+}
+h2 {
+    letter-spacing: 0.25em;
+    background-color: rgba(196, 196, 196, 1);
+    color: rgba(0, 86, 119, 1);
+}

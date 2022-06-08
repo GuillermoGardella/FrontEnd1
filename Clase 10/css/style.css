@@ -1,0 +1,60 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+   
+}
+.cabecera {
+    background: rgba(28, 209, 176, 1);
+    padding: 10px;
+}
+ h1 {
+    background-color: rgba(0, 102, 159, 1);
+    padding: 30px ;
+    margin: 0px;
+}
+main{
+    background: rgba(255, 255, 255, 1);
+}
+.caja1 {
+    background: rgba(243, 243, 243, 1);
+    position: relative;
+    height: 20px;
+    width: 300px;
+    left: 25px;
+    top: 120px;
+    text-align: center;
+    }
+.cara1 {
+    border-radius: 50%;
+    position: relative;
+    top: -50px;
+}
+.caja2 {
+    background: rgba(243, 243, 243, 1);
+    position: relative;
+    height: 20px;
+    width: 300px;
+    left: 500px;
+    top: 100px;
+    text-align: center;
+    }
+.cara2 {
+    border-radius: 50%;
+    position: relative;
+    top: -50px;
+}
+.caja3 {
+    background: rgba(243, 243, 243, 1);
+    position: relative;
+    height: 20px;
+    width: 300px;
+    left: 950px;
+    top: 80px;
+    text-align: center;
+    }
+.cara3 {
+    border-radius: 50%;
+    position: relative;
+    top: -50px;
+}
