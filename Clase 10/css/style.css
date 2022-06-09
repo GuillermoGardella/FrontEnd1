@@ -1,4 +1,5 @@
 body {
+    background: #F3F3F3;;
     box-sizing: border-box;
     margin: 0;
     font-family: 'Roboto', sans-serif;
@@ -8,74 +9,43 @@ body {
     padding: 10px;
 }
  h1 {
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
     background-color: rgba(0, 102, 159, 1);
     padding: 30px ;
     margin: 0px;
 }
-.caja1 {
-    display: inline-block;
-    background-color: #F3F3F3;
-    width: 300px;
-    margin: 100px 50px;
+h2 {
     text-align: center;
+}
+.caja {
+    display: inline-block;
+    Background: #E5E5E5;
+    width: 300px;
+    margin: 50px 50px;
+    text-align: left;
+    padding: 10px;
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
 }
-.cara1 {
+.megusta {
+    border-radius: 50%;
+    position: relative;
+    left: 10px;
+    top: -270px;
+}
+.cara {
     border-radius: 50%;
     position: relative;
     top: -50px;
+    left: 55px;
 }
-.ver_más_1 {
+.ver_más {
     color: rgba(243, 243, 243, 1);
     background-color: rgba(0, 102, 159, 1);
-    margin-top: 60px;
+    margin-top: 20px;
     margin-left: 100px;
     margin-right: 100px;
     padding: 10px;
-}
-.caja2 {
-    display: inline-block;
-    background-color: #F3F3F3;
-    width: 300px;
-    margin: 100px 50px;
     text-align: center;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-
-    }
-.cara2 {
-    border-radius: 50%;
-    position: relative;
-    top: -50px;
-}
-.ver_más_2 {
-    color: rgba(243, 243, 243, 1);
-    background-color: rgba(0, 102, 159, 1);
-    margin-top: 60px;
-    margin-left: 100px;
-    margin-right: 100px;
-    padding: 10px;
-}
-.caja3 {
-    display: inline-block;
-    background-color: #F3F3F3;
-    width: 300px;
-    margin: 100px 50px;
-    text-align: center;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
-
-    }
-.cara3 {
-    border-radius: 50%;
-    position: relative;
-    top: -50px;
-}
-.ver_más_3 {
-    color: rgba(243, 243, 243, 1);
-    background-color: rgba(0, 102, 159, 1);
-    margin-top: 60px;
-    margin-left: 100px;
-    margin-right: 100px;
-    padding: 10px;
 }
 footer {
     background: rgba(0, 102, 159, 1);
